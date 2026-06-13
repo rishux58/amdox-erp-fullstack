@@ -3,7 +3,7 @@
 This repository serves as the central documentation hub for the Amdox ERP project.
 
 ## 🔗 Project Links
-- **Frontend Repository**: [Link to amdox-erp repo]
+- **Frontend Repository**:https://github.com/rishux58/amdox-erp.git
 - **Backend Repository**: [Link to amdox-api repo]
 
 ## 🚀 Live Environment
